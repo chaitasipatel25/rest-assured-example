@@ -1,7 +1,7 @@
 # rest-assured-example
 ## API Testing framework for Postman Rest API
 
-##❓ What is this Repository about?
+## ❓ What is this Repository about?
 This project is the outcome of my self-learning about the API Testing Automation framework - Rest-assured. I heard a lot about Rest-Assured and how it made the QA's life easier by helping them to run all the tedious API tests in an efficient way. Hence, I started learning about the framework and have documented all my learnings in this repository with all example code from writing basic tests to running end to end API automation tests.
 
 This basic framework can be useful to anyone who want to get started on testing any API using [Rest Assured] (https://rest-assured.io/).
