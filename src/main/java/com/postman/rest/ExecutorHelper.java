@@ -24,7 +24,7 @@ public final class ExecutorHelper {
 
     private static RequestSpecification getRequestSpec() {
         final RequestSpecBuilder builder = new RequestSpecBuilder();
-        builder.addHeader(AUTHORIZATION, getAuthorization("PMAK-5daa30fa5224ce0036d3b5dc-885177c8765fc4d760a172c684bb9fccd1"));
+        builder.addHeader(AUTHORIZATION, getAuthorization("x-api-key"));
         builder.setContentType(CONTENT_TYPE);
         return builder.build();
     }
